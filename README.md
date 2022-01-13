@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a React and Solidity developer, in addition, I'm a technical writer.
+I'm currently working a range of softwares for my portfolio.
+Updates to come later
 
 <!--
 **EOEboh/EOEboh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
