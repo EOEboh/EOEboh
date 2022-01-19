@@ -5,11 +5,10 @@ I'm a React and Solidity developer, additionally, I'm a technical writer.
 I love the web and I love creating solutions for the web. 
 
 To me, software engineering is not just about the code, but also about the 
-thoughts that comes before and after the code; That's why I also have a passion
-for technical writing. I write on front-end and web 3.0 technologies.
+thoughts that comes before and after the code; this led me into technical writing. I write on front-end and web 3.0 technologies.
 
 ## My Story
-My first interest in coding was a far back as 2016, when I saw young pre-teens 
+My first interest in coding was as far back as 2016, when I saw young pre-teens 
 building various applications at CcHub. An 18 year old me was inspired.
 
 However, it was not until 2019 before I wrote my first line of code (HTML and CSS).
