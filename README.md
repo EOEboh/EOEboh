@@ -8,7 +8,7 @@ To me, software engineering is not just about the code, but also about the
 thoughts that comes before and after the code; this led me into technical writing. I write on front-end and web 3.0 technologies.
 
 ## My Story
-My first interest in coding was as far back as 2016, when I saw young pre-teens 
+My first interest in coding was as far back in 2016, when I saw young pre-teens 
 building various applications at CcHub. An 18 year old me was inspired.
 
 However, it was not until 2019 before I wrote my first line of code (HTML and CSS).
