@@ -14,7 +14,7 @@ building various applications at CcHub. An 18 year old me was inspired.
 However, it was not until 2019 before I wrote my first line of code (HTML and CSS).
 After a year of mark-up and styling, I started learning JavaScript during the start of the 
 pandemic. 
-In January,2022 I have started learning Solidity for Ethereum Blockchain development.
+Currently, I'm learning Typescript and Solidity.
 
 It has been an interesting journey so far, I've learned, I've been frustrated, I've relearned
 and I have gotten better than ever.
