@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Emmanuel O Eboh.
-I'm a React and Solidity developer, additionally, I'm a technical writer.
+I'm a React and JavaScript developer, additionally, I'm a technical writer.
 I love the web and I love creating solutions for the web. 
 
 To me, software engineering is not just about the code, but also about the 
