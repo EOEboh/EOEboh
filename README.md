@@ -26,7 +26,7 @@ I play basketball and chess as hobbies. I would love to live in San Francisco on
 I'm also a technical writer, I write on front-end technologies, user documentations and guides, web 3.0 etc
 You can check out my [blog articles here](https://hashnode.com/@Captain-EO).
 
-Feel free to also check out [my portfolio here](https://emmanueleboh.vercel.app)
+Feel free to also check out [my portfolio here](https://emmanueleboh.vercel.app).
 
 <!--
 **EOEboh/EOEboh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
