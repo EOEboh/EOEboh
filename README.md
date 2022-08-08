@@ -29,7 +29,7 @@ You can check out my [blog articles here](https://hashnode.com/@Captain-EO).
 Feel free to also check out [my portfolio here](https://emmanueleboh.vercel.app).
 
 
-https://github-readme-stats.vercel.app/api?username=EOEboh
+[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EOEboh)](https://github.com/EOEboh/github-readme-stats)
 
 <!--
 **EOEboh/EOEboh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
