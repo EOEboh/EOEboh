@@ -24,6 +24,8 @@ I play basketball and chess as hobbies. I would love to live in San Francisco on
 
 ## Technical Writing
 I'm also a technical writer, I write on front-end technologies, user documentations and guides, web 3.0 etc
+
+I also have a personal blog here:
 You can check out my [blog articles here](https://hashnode.com/@Captain-EO).
 
 Feel free to also check out [my portfolio here](https://emmanueleboh.vercel.app).
