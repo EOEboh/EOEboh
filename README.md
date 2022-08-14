@@ -1,7 +1,7 @@
 A frontend software developer with an extra superpower— technical writing.
 
 Whether I'm writing React or fiddling with AWS or solving algorithms in JavaScript, my main objective is always the
-same, which is to write clean, understandable content that solves problems.
+same, which is to create clean, understandable content that solves problems.
 
 When not coding or writing, I'm most likely watching a documentary, playing basketball or simply wondering if there's a slight
 chance the earth is flat.
