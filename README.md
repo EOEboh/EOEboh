@@ -17,9 +17,9 @@ chance the earth is flat.
 * [More Writings...](https://aviyel.com/search?term=\*&uid=2915&root=blog)
 
 
-You can check out my personal [blog articles here](https://hashnode.com/@Captain-EO).
+You can check out my personal [blog articles](https://hashnode.com/@Captain-EO).
 
-Feel free to also check out [my portfolio here](https://emmanueleboh.vercel.app).
+Feel free to also check out [my portfolio](https://emmanueleboh.vercel.app).
 
 ## Achievements
 
