@@ -1,6 +1,6 @@
 ## About Me
 
-A frontend software developer with an extra superpower— technical writing.
+A web software developer with an extra superpower— technical writing.
 
 Whether I'm writing React or fiddling with AWS or solving algorithms in JavaScript, my main objective is always the
 same, which is to create clean, understandable content that solves problems.
