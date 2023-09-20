@@ -15,7 +15,7 @@ Feel free to also check out [my portfolio](https://emmanueleboh.vercel.app).
 
 
 ## Social Links
-[Aviyel](https://aviyel.com/@eoeboh)  •  [github](https://github.com/EOEboh)  •  [twitter](https://twitter.com/eo_eboh)  •  [hashnode](https://hashnode.com/@Captain-EO)
+  [GitHub](https://github.com/EOEboh)  •  [Twitter(X)](https://twitter.com/eo_eboh)  •  [Hashnode](https://hashnode.com/@Captain-EO)
 
 
 
