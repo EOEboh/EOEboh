@@ -1,6 +1,6 @@
 ## About Me
 
-A web software developer with an extra superpower— technical writing.
+A web software developer with a flair for building productivity tools that solve business and personal needs.
 
 Whether I'm writing React or fiddling with AWS or solving algorithms in JavaScript, my main objective is always the
 same, which is to create clean, understandable content that solves problems.
@@ -8,14 +8,12 @@ same, which is to create clean, understandable content that solves problems.
 When not coding or writing, I'm most likely watching a documentary, playing basketball or simply wondering if there's a slight
 chance the earth is flat.
 
-You can check out my personal [blog articles](https://hashnode.com/@Captain-EO).
-
-Feel free to also check out [my portfolio](https://emmanueleboh.vercel.app).
+You can check out my personal [blog articles and portfolio](https://emmanueleboh.com).
 
 
 
 ## Social Links
-  [GitHub](https://github.com/EOEboh)  •  [Twitter(X)](https://twitter.com/eo_eboh)  •  [Hashnode](https://hashnode.com/@Captain-EO)
+  [GitHub](https://github.com/EOEboh)  •  [Twitter(X)](https://twitter.com/eoeboh)  •  [Website](https://emmanueleboh.com)
 
 
 
