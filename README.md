@@ -13,7 +13,7 @@ You can check out my personal [blog articles and portfolio](https://emmanueleboh
 
 
 ## Social Links
-  [GitHub](https://github.com/EOEboh)  •  [Twitter(X)](https://twitter.com/eoeboh)  •  [Website](https://emmanueleboh.com)
+  [GitHub](https://github.com/EOEboh)  •  [Twitter(X)](https://www.x.com/eoeboh)  •  [Website](https://www.emmanueleboh.com)
 
 
 
