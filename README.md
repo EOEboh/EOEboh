@@ -13,7 +13,10 @@
 
 - **Frontend:** React, Next.js, TypeScript, Ethers.js, Web3.js  
 - **Backend:** Node.js, Express, MongoDB, SQL, Nest.js  
-- **UI & Styling:** Tailwind CSS, Material UI, Ant Design, etc. 
+- **UI & Styling:** Tailwind CSS, Material UI, Ant Design, etc.
+- **Testing:** Cypress, Playwright, Jest etc.
+- **Cloud:** AWS, Vercel, GitHub Actions
+- **Other Skills:** API Documentation, Technical Writing, Technical Workshops and Speaking
 
 ---
 
