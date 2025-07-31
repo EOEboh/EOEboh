@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Emmanuel O. Eboh ([@EOEboh](https://github.com/EOEboh))
 
-**Software Engineer** specializing in JavaScript/TypeScript. I build web apps, websites and software to solve real business needs. I also write technical articles and tutorials to help others learn and grow. 
+**Software Engineer** specializing in JavaScript/TypeScript and Solidity. I build web apps, blockchain apps and software solutions to solve real business needs. I also write technical articles and tutorials. 
 
 ---
 
@@ -10,18 +10,17 @@
 ---
 
 ## 🧠 Tech Stack
-
-- **Frontend:** React, Next.js, TypeScript, Ethers.js, Web3.js  
-- **Backend:** Node.js, Express, MongoDB, SQL, Nest.js  
-- **UI & Styling:** Tailwind CSS, Material UI, Ant Design, etc.
-- **Testing:** Cypress, Playwright, Jest etc.
+- **Languages:** JavaScript, TypeScript, Solidity, Golang
+- **Frameworks and Libraries:** React, Next.js, Node.js, Express, Ethers.js, Web3.js, Nest.js,
+- **Databases:** MongoDB, PostgreSQL, Firebase, Supabase
+- **Testing:** Cypress, Playwright, Jest, etc.
 - **Cloud:** AWS, Vercel, GitHub Actions
-- **Other Skills:** API Documentation, Technical Writing, Technical Workshops and Speaking
+- **Other Skills:** API Documentation, Technical Writing, Technical Workshops and Public Speaking
 
 ---
 
 ## 📚 Writing & Tutorials
-I publish technical content on my personal blog and LinkedIn, focused on:
+I publish technical content on my blog and LinkedIn, focused on:
 - Web application architectures
 - Code quality and design patterns  
 - JavaScript best practices
@@ -31,8 +30,9 @@ I publish technical content on my personal blog and LinkedIn, focused on:
 
 ## 🌱 On the Side
 - Watching documentaries  
-- 🏀 Playing basketball  
-- Wondering about... flat earth? 😉
+- Playing basketball
+- Swimming  
+- Movies and Novels
 
 ---
 
