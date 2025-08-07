@@ -46,4 +46,4 @@ I publish technical content on my blog and LinkedIn, focused on:
 
 
 
-Thanks for stopping by—feel free to explore, star, or reach out! 😊
+Thanks for stopping by! Feel free to explore, star, or reach out! 😊
