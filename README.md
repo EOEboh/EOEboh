@@ -22,7 +22,7 @@
 I publish technical content on my blog and LinkedIn, focused on:
 - Web application architectures
 - Code quality and design patterns  
-- JavaScript best practices
+- Go and JavaScript best practices
 - Latest technologies and features  
 
 ---
