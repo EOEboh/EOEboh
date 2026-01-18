@@ -1,21 +1,19 @@
 # 👋 Hi, I’m Emmanuel O. Eboh ([@EOEboh](https://github.com/EOEboh))
 
-**Software Engineer** specializing in JavaScript/TypeScript and Solidity. I build web apps, blockchain apps and software solutions to solve real business needs. I also write technical articles and tutorials. 
+**Software Engineer** specializing in JavaScript/TypeScript and Go. I build web apps, blockchain apps and software solutions to solve real business needs. I also write technical articles and tutorials. 
 
 ---
 
 ## 🚀 What I’m Currently Working On
-- [Code Stash](https://code-stash-beta.vercel.app/): A snippet manager web app for developers and projects
-- [Dash Labs](https://dash-labs.vercel.app/): A collection of reusable dashboards for businesses and developers
+- To be revealed soon
 
 ---
 
 ## 🧠 Tech Stack
-- **Languages:** JavaScript, TypeScript, Solidity, Golang
-- **Frameworks and Libraries:** React, Next.js, Node.js, Express, Ethers.js, Web3.js, Nest.js,
-- **Databases:** MongoDB, PostgreSQL, Firebase, Supabase
+- **Languages:** JavaScript, TypeScript, Go, Solidity
+- **Databases:** PostgreSQL, MongoDB, Firebase, Supabase
 - **Testing:** Cypress, Playwright, Jest, etc.
-- **Cloud:** AWS, Vercel, GitHub Actions
+- **Cloud:** AWS, Vercel, GitHub Actions, Circle CI
 - **Other Skills:** API Documentation, Technical Writing, Technical Workshops and Public Speaking
 
 ---
