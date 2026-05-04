@@ -10,7 +10,7 @@
 ---
 
 ## 🧠 Tech Stack
-- **Languages:** JavaScript, TypeScript, Go, Solidity
+- **Languages:**  Go, JavaScript, TypeScript, Solidity
 - **Databases:** PostgreSQL, MongoDB, Firebase, Supabase
 - **Testing:** Cypress, Playwright, Jest, etc.
 - **Cloud:** AWS, Vercel, GitHub Actions, Circle CI
