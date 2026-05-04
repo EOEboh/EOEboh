@@ -4,12 +4,12 @@
 
 ---
 
-## 🚀 What I’m Currently Working On
+## 🚢 What I’m Currently Working On
 - [Hookdrop](https://hookdrop.app)
 
 ---
 
-## 🧠 Tech Stack
+## 📚 Tech Stack
 - **Languages:**  Go, JavaScript, TypeScript, Solidity
 - **Databases:** PostgreSQL, MongoDB, Firebase, Supabase
 - **Testing:** Cypress, Playwright, Jest, etc.
@@ -18,7 +18,7 @@
 
 ---
 
-## 📚 Writing & Tutorials
+## 📝 Writing & Tutorials
 I publish technical content on my blog and LinkedIn, focused on:
 - Web application architectures
 - Code quality and design patterns  
@@ -27,7 +27,7 @@ I publish technical content on my blog and LinkedIn, focused on:
 
 ---
 
-## 🌱 On the Side
+## 🌊 On the Side
 - Watching documentaries  
 - Playing basketball
 - Swimming  
@@ -45,4 +45,4 @@ I publish technical content on my blog and LinkedIn, focused on:
 
 
 
-Thanks for stopping by—feel free to explore, star, or reach out! 😊
+Thanks for stopping by. Feel free to explore, star, or reach out! 😊
