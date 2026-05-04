@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 What I’m Currently Working On
-- To be revealed soon
+- [Hookdrop](https://hookdrop.app)
 
 ---
 
