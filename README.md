@@ -10,10 +10,10 @@
 ---
 
 ## 📚 Tech Stack
-- **Languages:**  Go, JavaScript, TypeScript, Solidity
-- **Databases:** PostgreSQL, MongoDB, Firebase, Supabase
+- **Languages:**  Go, JavaScript, TypeScript, Java
+- **Databases:** PostgreSQL, MongoDB, SQLite, MySQL, Supabase, Firebase
 - **Testing:** Cypress, Playwright, Jest, etc.
-- **Cloud:** AWS, Vercel, GitHub Actions, Circle CI
+- **Cloud:** AWS, Vercel, Azure
 - **Other Skills:** API Documentation, Technical Writing, Technical Workshops and Public Speaking
 
 ---
@@ -37,7 +37,7 @@ I publish technical content on my blog and LinkedIn, focused on:
 
 ## 📫 Connect with Me
 - 🌐 [Blog](https://emmanueleboh.com)  
-- 🐦 [Twitter‍/X](https://x.com/eo_eboh)  
+- 🐦 [Twitter‍/X](https://x.com/EOEboh)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-eboh)
 - 📧 [Email](mailto:emmanueleboh87@gmail.com)
 
