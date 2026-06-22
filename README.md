@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Emmanuel O. Eboh ([@EOEboh](https://github.com/EOEboh))
 
-**Software Engineer** specializing in JavaScript/TypeScript and Go. I build web apps, blockchain apps and software solutions to solve real business needs. I also write technical articles and tutorials. 
+**Software Engineer** skilled in Java, Go and JavaScript/TypeScript. I build web apps, blockchain apps and software solutions to solve real business needs. I also write technical articles and tutorials. 
 
 ---
 
