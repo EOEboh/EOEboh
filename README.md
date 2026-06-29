@@ -10,7 +10,7 @@
 ---
 
 ## 📚 Tech Stack
-- **Languages:**  Go, JavaScript, TypeScript, Java
+- **Languages:**  Go, Java, JavaScript/TypeScript
 - **Databases:** PostgreSQL, MongoDB, SQLite, MySQL, Supabase, Firebase
 - **Testing:** Cypress, Playwright, Jest, etc.
 - **Cloud:** AWS, Vercel, Azure
