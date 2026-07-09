@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Emmanuel O. Eboh ([@EOEboh](https://github.com/EOEboh))
 
-**Software Engineer** skilled in Java, Go and JavaScript/TypeScript. I build web apps, blockchain apps and software solutions to solve real business needs. I also write technical articles and tutorials. 
+**Software Engineer** skilled in Go, Java and JavaScript/TypeScript. I build web apps, distributed systems and software solutions to solve real business needs. I also write technical articles and tutorials. 
 
 ---
 
 ## 🚢 What I’m Currently Working On
 - [Hookdrop](https://hookdrop.app)
-
+- Sheetdrop (coming soon)
 ---
 
 ## 📚 Tech Stack
