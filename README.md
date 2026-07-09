@@ -36,7 +36,7 @@ I publish technical content on my blog and LinkedIn, focused on:
 ---
 
 ## 📫 Connect with Me
-- 🌐 [Blog](https://emmanueleboh.com)  
+- 🌐 [Blog](https://emmanueleboh.vercel.app/)
 - 🐦 [Twitter‍/X](https://x.com/EOEboh)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-eboh)
 - 📧 [Email](mailto:emmanueleboh87@gmail.com)
